@@ -39,7 +39,7 @@ Save and exit.
 Go to line 519.
 
 - Uncomment line 519 and 523.
-1. user = "<username>"
+1. user = "your username"
 2. group = "libvirt"
 
 ### Enable Services.
