@@ -9,6 +9,7 @@
 `$ sudo usermod -aG kvm <username>`
 
 `$ modprobe kvm-<your CPU>`
+For amd use kvm-amd & for intel use kvm-intel .
 
 `$ sudo usermod -a -G libvirt <username>`
 
