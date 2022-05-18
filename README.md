@@ -56,7 +56,7 @@ Go to line 519.
 
 
 ### Note.
-If you have DHCPCD for network, you need to change it up for NetworkManager to be able to connect via ssh to the virtual machine.
+If you have DHCPCD for network, you need to change it up to NetworkManager. Just to be able to connect via ssh to the virtual machine.
 
 1. `$ sudo xbps-install -S NetworkManager`
 2. `$ sudo sv down dhcpcd`
