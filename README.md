@@ -45,7 +45,7 @@ Go to line 519.
 
 ### Enable Services.
 
-1. `$ sudo ln -s /etc/sv/libvirt /var/service/`
+1. `$ sudo ln -s /etc/sv/libvirtd /var/service/`
 
 2. `$ sudo ln -s /etc/sv/virtlogd /var/service/`
 
